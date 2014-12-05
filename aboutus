@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Sweepbeat | marketplace</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Didact+Gothic&subset=cyrillic,cyrillic-ext,latin,latin-ext">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+   <header>
+     <a href="index.html" id="logo">
+      <h1>Sweepbeat</h1>
+      <h2>Marketplace</h2>
+     </a>
+    <nav>
+      <ul>
+        <li><a href="index.html">Services</a></li>
+        <li><a href="about.html" class="selected">About Us</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+     </nav>
+   </header>
+ <div id="wrapper">
+    <section>
+        <img src="img/aboutpic.png" alt="Sweepbeat Inc." class="profile-photo">
+      <h3>About Us</h3>
+  <p>Is a company dedicated to promote and deliver excellent household  services connecting those people who love to clean and  grow a business as a community,  implementing new practices and technology to have a better approach to users creating a friendly experience, where users will get connect with trusted, professional service providers at an affordable rate.
+  
+  Whether you are a parent or a college student Sweepbeat is a great app to help you with your lovely chores.
+  
+  Our platform for online bookings and secure online payments is best-in-class. We screen and certify each professional  to make sure you have the best products. They must pass numerous background and reference checks. Furthermore, all cleanings are insured. We frequently ask user for feedback to improve the quality of our services. This ensures an amazing professional work each and every time you let Sweepbeat take care of your chores.
+</p>
+<p>Follow Us On <a href="https://twitter.com/Sweepbeat">@sweepbeat</a>.</p>
+
+</section>
+    <footer>
+      <a href="https://twitter.com/Sweepbeat"><img src="img/twitter-wrap.png" alt="twitter logo" class="social-icon"></a>
+      <a href="https://facebook.com/Sweepbeat"><img src="img/facebook-wrap - Copy.png" alt="facebook logo" class="social-icon"></a>
+      <p>&copy; 2014 Sweepbeat Inc.</p>
+    </footer>
+  </div>
+  </body>
+</html>
