@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Sweepbeat | marketplace</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Didact+Gothic&subset=cyrillic,cyrillic-ext,latin,latin-ext">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+   <header>
+     <a href="index.html" id="logo">
+      <h1>Sweepbeat</h1>
+      <h2>Marketplace</h2>
+     </a>
+    <nav>
+      <ul>
+        <li><a href="index.html">Services</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html" class="selected">Contact</a></li>
+      </ul>
+     </nav>
+   </header>
+ <div id="wrapper">
+  <section id="primary">
+  <h3>General Information</h3>
+    <p>Sweepbeat is a new startup that improve the way we order services for homes through an app like: Housekeeping, plumbing, electrical, moving and improvement. We operate connecting independent professional locally that are specialized in these areas.</p>
+    
+    <p>Please contact us throught any of these channels any time. We are here to improve the way you order services for your home       </p>
+  </section>
+  <section id="secondary">
+  <h3>Contact Information</h3>
+    <ul class="contact-info">
+      <li class="phone"><a href="tel:347-369-3565">347-369-3565</a></li>
+      <li class="mail"><a href="mailto:contact@sweepbeat.com">contact@sweepbeat.com</a></li>
+      <li class="twitter"><a href="https://twitter.com/intent/tweet?screen_name=Sweepbeat">@sweepbeat</a></li>
+      <!-- <li class="instagram"><a href="http://instagram.com/Sweepbeat">Follow us</a></li> search images to display -->
+      <!-- <li class="facebook"><a href="https://facebook.com/Sweepbeat">Like us</a></li> search images to display -->
+    </ul>
+  </section>
+    <footer>
+      <a href="https://twitter.com/Sweepbeat"><img src="img/twitter-wrap.png" alt="twitter logo" class="social-icon"></a>
+      <a href="https://facebook.com/Sweepbeat"><img src="img/facebook-wrap - Copy.png" alt="facebook logo" class="social-icon"></a>
+      <p>&copy; 2014 Sweepbeat Inc.</p>
+    </footer>
+  </div>
+  </body>
+</html>
